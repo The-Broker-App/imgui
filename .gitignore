@@ -1,6 +1,7 @@
 ## OSX artifacts
 .DS_Store
-
+CMakeLists.txt
+.idea*
 ## Dear ImGui artifacts
 imgui.ini
 
